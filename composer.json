@@ -17,5 +17,6 @@
         "psr-4": {
             "docao\\colorpicker\\": ""
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
